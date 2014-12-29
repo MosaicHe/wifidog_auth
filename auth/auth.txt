@@ -1,0 +1,15 @@
+---10:59:52:stage=login|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=adfc44f43e990611e82012fab4368aad|incoming=0|outgoing=0|gw_id=000C43761248
+---11:00:18:stage=login|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=adfc44f43e990611e82012fab4368aad|incoming=0|outgoing=0|gw_id=000C43761248
+---11:00:36:stage=counters|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=adfc44f43e990611e82012fab4368aad|incoming=0|outgoing=0|gw_id=000C43761248
+---11:00:46:stage=login|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=0dbc5d0a3d7c0be82e8d06d32a601495|incoming=0|outgoing=0|gw_id=000C43761248
+---11:01:09:stage=login|ip=192.168.111.101|mac=cc:fa:00:ca:43:11|token=d07c513ac3b97fecb19413c4dba28ac5|incoming=0|outgoing=0|gw_id=000C43761248
+---11:01:10:stage=login|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=0dbc5d0a3d7c0be82e8d06d32a601495|incoming=0|outgoing=0|gw_id=000C43761248
+---11:01:36:stage=counters|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=0dbc5d0a3d7c0be82e8d06d32a601495|incoming=0|outgoing=0|gw_id=000C43761248
+---11:01:36:stage=counters|ip=192.168.111.101|mac=cc:fa:00:ca:43:11|token=d07c513ac3b97fecb19413c4dba28ac5|incoming=0|outgoing=0|gw_id=000C43761248
+---11:03:06:stage=login|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=11111111111111111111111111111111|incoming=0|outgoing=0|gw_id=000C43761248
+---11:03:36:stage=counters|ip=192.168.111.100|mac=b4:0b:44:01:10:6e|token=11111111111111111111111111111111|incoming=16097|outgoing=15308|gw_id=000C43761248
+---19:25:46:
+---19:30:32:
+---19:32:25:
+---19:32:27:
+---19:34:36:
